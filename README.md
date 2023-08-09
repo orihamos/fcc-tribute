@@ -21,7 +21,6 @@ This is a tribute page project for FreeCodeCamp, showcasing information about th
 - HTML5
 - CSS3
 
-
 ## Credits
 
 - [Vulfpeck Wikipedia](https://en.wikipedia.org/wiki/Vulfpeck)
